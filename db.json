@@ -4,13 +4,15 @@
 			"id": 1, 
 			"title": "Lorem Ipsum is simply dummy text of the printing and typesetting ",
 			"description" : "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,",
-			"ownerId": 100
+			"ownerId": 100,
+			"category": 1
 		},
 		{
 			"id": 2,
 			"title": "Why do we use it?",
 			"description": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters",
-			"ownerId": 101
+			"ownerId": 101,
+			"category": 3
 		}
 	],
 
