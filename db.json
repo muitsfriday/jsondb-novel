@@ -2,14 +2,14 @@
 	"novels" : [
 		{
 			"id": 1, 
-			"title": "ตัวอย่างทดลองอ่าน : ประธานเฮงซวย นกของคุณบินไปแล้ว (渣攻，你的鸟飞了)",
-			"description" : "ตัวอย่างทดลองอ่านค่ะ ^^",
+			"title": "Lorem Ipsum is simply dummy text of the printing and typesetting ",
+			"description" : "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,",
 			"ownerId": 100
 		},
 		{
 			"id": 2,
-			"title": "มหาภัยไวรัสล้างโลก",
-			"description": "•	…..มันเป็น มหาภัยแห่งอดีตกาลที่ถูกผู้ทรงวิทยาคมแก่กล้า สะกดฝังไว้ใต้ผืนแผ่นดินสุวรรณภูมิ ด้วยความโลภของมนุษย์กลุ่มหนึ่ง ทำให้มันถูกปล่อยออกมาอีกครั้ง ในครั้งนี้ใครจะเป็นผู้หยุดมัน….",
+			"title": "Why do we use it?",
+			"description": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters",
 			"ownerId": 101
 		}
 	],
